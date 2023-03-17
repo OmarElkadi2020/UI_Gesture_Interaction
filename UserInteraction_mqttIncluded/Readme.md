@@ -1,2 +1,2 @@
-#run:
+###run
 python main.py | python mqttClient.py
